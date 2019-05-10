@@ -3,5 +3,5 @@ author: Xuez Project
 description: This is a guide for manual installation of a single xuez masternode under a non-root user.  The TOR section is optional and is not necessary, but it is encouraged for users who wish to increase the privacy of the data being sent and received by their masternode.  It also hides the IP address of the masternode from the masternode network list by replacing it with a .onion TOR address.
 
 # social links
-twitter_username: @xuezcoin
+twitter_username: xuezcoin
 theme: jekyll-theme-minimal
